@@ -24,6 +24,7 @@ The following attributes were  created and added  to the table:
 Further transformations can be viewed in Power Query Editor [Here](e_commerce_sales_work.xlsx)
 
 ## 2. Executive Summary
+
 The Top 2 revenue producing regions are Africa and North America with both generating approximately  $4.7 million in year 2023.
 
 There is a  strong presence of seasonality in sales: in Africa higher purchases over the Christmas period (December & January) and in March. North American consumers also purchase substantially in March but do so the most in July with a total of 200 transactions.  In both regions the monthly growth rate decreases by approximately 15% in February. Clients in Africa favor acquiring on Sundays and Tuesday.
@@ -33,3 +34,11 @@ Age is a major component in the consumer decision making process for Africa and 
 The African region observes discounts more than North America accompanied by the Gender variable. Males in Africa initiate 61% of the transactions with no discount and favor discount ranges 10%-15% and 25%-30%. North American Females on the other hand, are the gender which purchase the most with no discount with 59% of the total transactions in the discount range. The most popular discount in the region is 10%-15%.
 
 Tables and Headphones are sold more in North America in terms of quantity and Africa deals more Smartwatches and Smartphones. In both regions, however, Smartphones and Headphones carry the greatest average revenue. The purchase of Laptops and Smartphones in Africa strongly depend on the discount value, while this applies for Smartphones and Tables in North America.
+
+## 3. Analysis
+
+North America and Africa have been identified as the top 2 revenue generating regions with Africa leading Globally with $4,739,841.32 and North America following with $4,727,213.53.
+
+<img src="https://github.com/user-attachments/assets/ffb8fd8b-4e2c-40eb-b7bf-7026abf12af7" style="width:50%; height:auto;">
+
+There is a relatively even distribution in transaction count based on membership and gender, as in both cases the ratio is approximately 1:1. Additionally, in both regions 80% of purchases fall under electronics and only 2% of transactions did not reflect a discount application (ref.  
