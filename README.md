@@ -16,4 +16,9 @@ The following types of analytics were used to discover and  carefully synthesize
 
 ### 1.1 Data Structure
 The dataset’s structure as seen below consists of an already clean single table of 10,000 rows which was transformed for the purposed of this study.
-![ERD - eCommerce Sales](https://github.com/user-attachments/assets/e3507f00-bd34-45f2-91f8-ffc046c132d3)
+
+<img src="https://github.com/user-attachments/assets/e3507f00-bd34-45f2-91f8-ffc046c132d32" alt="Alt Text" style="width:60%; height:auto;">
+
+The following attributes were  created and added  to the table:
+- Revenue – Total Sales Revenue generated per transaction
+Further transformations can be viewed in Power Query Editor 
