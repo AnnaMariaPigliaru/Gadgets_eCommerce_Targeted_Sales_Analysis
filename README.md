@@ -1,7 +1,7 @@
 # Gadgets eCommerce Targeted Sales Analysis
 *Sales Trends and Patterns discovery of an undisclosed Gadgets eCommerce with Excel and Power BI*
 
-
+[Executive Summmary](#executive-summary)
 
 
 ## 1. Project Background
@@ -29,7 +29,7 @@ Further transformations can be viewed in Power Query Editor [Here](e_commerce_sa
 The requested dashboard can be viewed
 
 
-## 2. Executive Summary
+## Executive Summary
 
 The Top 2 revenue producing regions are Africa and North America with both generating approximately  $4.7 million in year 2023.
 
