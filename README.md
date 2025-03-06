@@ -70,7 +70,7 @@ Tables and Headphones are sold more in North America in terms of quantity and Af
 
 North America and Africa have been identified as the top 2 revenue generating regions with Africa leading Globally with $4,739,841.32 and North America following with $4,727,213.53.
 
-<img src="https://github.com/user-attachments/assets/ffb8fd8b-4e2c-40eb-b7bf-7026abf12af7" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/0916a266-543e-4c74-90b8-921b4a44e6cb" style="width:50%; height:auto;">
 
 There is a relatively even distribution in transaction count based on membership and gender, as in both cases the ratio is approximately 1:1. Additionally, in both regions 80% of purchases fall under electronics and only 2% of transactions did not reflect a discount application (ref. [Here](e_commerce_sales_work.xlsx) for further details).
 
