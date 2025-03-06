@@ -41,4 +41,94 @@ North America and Africa have been identified as the top 2 revenue generating re
 
 <img src="https://github.com/user-attachments/assets/ffb8fd8b-4e2c-40eb-b7bf-7026abf12af7" style="width:50%; height:auto;">
 
-There is a relatively even distribution in transaction count based on membership and gender, as in both cases the ratio is approximately 1:1. Additionally, in both regions 80% of purchases fall under electronics and only 2% of transactions did not reflect a discount application (ref.  
+There is a relatively even distribution in transaction count based on membership and gender, as in both cases the ratio is approximately 1:1. Additionally, in both regions 80% of purchases fall under electronics and only 2% of transactions did not reflect a discount application (ref. [Here](e_commerce_sales_work.xlsx) for further details).
+
+### 3.1 Time Series Orientated
+Africa leads in  quarters 1 and 4 in terms of transactions count, whereas  Nort America has the highest in quarter 3 with 551 counts.
+
+<img src="https://github.com/user-attachments/assets/09736d54-ce9b-48ba-9e99-b2f99c935470" style="width:50%; height:auto;">
+
+More specifically, Africa has the peak number of sales in the months of March and December with 192 and 190 orders respectively, while July and December are the best performing months in North America with 200 and 188 transactions.
+
+<img src="https://github.com/user-attachments/assets/5256c7fa-ba57-44b1-ace0-f4ee0466a16b" style="width:50%; height:auto;">
+
+For both regions the least performing month is February with a drop in transactions count compared to the previous month of 13.4% in Africa and 16.7% in North America.
+
+<img src="https://github.com/user-attachments/assets/3cafde2f-145d-48d6-9e54-7572d8e4f5a1" style="width:50%; height:auto;">
+
+However, it can be noticed that there is a considerable spike in purchases (compared to June) of 21% in July in North America.
+
+<img src="https://github.com/user-attachments/assets/0a96e718-e59f-498f-a705-2d18f4f2d179" style="width:50%; height:auto;">
+
+Customers in Africa tend to purchase more on Sunday with 15.5% of its population, followed by Tuesdays. The largest share of clients in North America also purchase on Sundays but favor Mondays as well with 14.9%. Mondays, on the other hand, is the day least chosen by customers in Africa.
+
+<img src="https://github.com/user-attachments/assets/1af39e66-8cdc-4763-82ed-5004705f890b" style="width:50%; height:auto;">
+
+It is observed that, though a weak one, there is a correction between the days of the week and the number of transactions in the African Region. In North America the days of the Week does not have an impact on the transaction frequency.
+
+### 3.2 Age Range Orientated
+Africa shows a perfect negative correlation between Age and Transaction count, while North America showcases a very strong correlation. In other words, for both Regions, the younger customers generate overall higher revenues, particularly those in the age range18-30.
+
+<img src="https://github.com/user-attachments/assets/1250d98b-712a-4469-8670-c5736caceb8e" style="width:30%; height:auto;">
+
+At a closer look, it is noticed that in North America the age range with the greatest Average Revenue is 30-40 with $2,402, followed by $2,345 belonging to range 40-50. The African Region on the other hand, holds its highest average revenue in the >60 age range with $2,479 and range 18-30 with $2,407.
+
+<img src="https://github.com/user-attachments/assets/d4484f83-31e9-41b8-9215-807f9420af61" style="width:50%; height:auto;">
+
+More specifically, Female above 60 and Males between 18 and 30 generate the greatest average revenue in Africa, while Females of age 50-60 generate the lowest average revenue of the region. In North America, on the other hand, Females of age 30-40 and Males in 40-50 are the top average revenue producers.
+
+<img src="https://github.com/user-attachments/assets/534264be-f2aa-4a1f-bf0a-57eac81e24cf" style="width:50%; height:auto;">
+
+<img src="https://github.com/user-attachments/assets/1f57ec09-abe0-474c-b24e-f84fa63668fa" style="width:50%; height:auto;">
+
+### 3.3 Discount Range Orientated
+There is moderate positive relationship for both regions between the discount range and the total sales revenue. As illustrated in the graph below, the higher the discount the greater the revenue, though Africa appears to be affected by this pattern slightly more than North Africa  (ref. [Here](e_commerce_sales_work.xlsx) for further details).
+
+<img src="https://github.com/user-attachments/assets/8e747617-a0ab-4fac-bbbb-8d871a2b7889" style="width:50%; height:auto;">
+
+Customers in Africa tend to opt more for discounts ranging 5%-10% and 20%-30%.
+
+<img src="https://github.com/user-attachments/assets/f9282cb0-9abd-4ccf-9655-ea55f454323c" style="width:30%; height:auto;">
+
+In addition, it is noticed that 61% of the total transactions which have no discount are of Male clients. Females on the other hand, lead in the discount range 15%-20%.
+                 
+<img src="https://github.com/user-attachments/assets/80e5f28d-1951-4fa4-ae86-b2e72fc0d758" style="width:50%; height:auto;">
+
+The discount range with the maximum count in North America is 10%-15% with 374 transactions, of which 57% initiated by Males. Also, 59% of the transactions with no discount are carried out by Females.
+
+<img src="https://github.com/user-attachments/assets/8903a077-3e19-40d5-a301-c00841360cd1" style="width:50%; height:auto;">
+
+Proceeding with the analysis, it is important to highlight that the sudden spike in North America in the month of July was most likely caused by 15%-20% and 20%-25% discounts applied  on the products.
+
+### 3.4 Product Orientated
+A total of 1,274 Tablets and 1,231 Headphones are sold in North America; in  Africa Smartwatches and Smartphones are the highest selling in terms of quantity. 
+
+<img src="https://github.com/user-attachments/assets/b838e722-7fad-4970-b6e4-21822d3a6809" style="width:50%; height:auto;">
+
+Yet, for both regions the products with the highest average revenue are Headphones and  Smartphones.
+
+<img src="https://github.com/user-attachments/assets/54c8e3b0-f1df-438e-ab45-4cf56c1b070a" style="width:30%; height:auto;">
+
+Furthermore, following a correlation analysis, it is revealed that, in Africa, the possibility of laptops and smartphones being purchased (more than other products) very strongly depend on the value of the discount. Similarly in North America (tough with an inferior influence compared to Africa), customers closely observe discount values when it come to Smartphones and Tablets.
+
+## 4. Recommendations
+Based on the uncovered insights, the following recommendations have been provided.
+
+A Marketing strategy should be developed to entices  customer engagement and, consequently, customer purchase in the lowest transactions generating months: February, November and April for Africa, February, October and April for North America.
+
+Expand target market by incorporating more clients over 50 as the analysis observes a considerable spending power in the older consumer, especially in Africa. Furthermore, additional products should be included to the selection to the likes of Females aged 30-40 and Males aged 40-50 in North America.
+
+Considering that Males in Africa purchase more at full price, more products preferred by Males should be included and placed at no discount in order to increase sales profitability. The same should be applied in North America for Female consumers.
+
+Further capitalize on Smartwatches  in both regions, Tablets in North America and Laptops in Africa.
+
+Focus target and personalized adds with the aim to increase the number of Premium clients transactions.
+
+## 5. Assumptions
+The Price records are not stated to be either before or after discount: for the purposed of this analysis, it is assumed that the values are to be considered as after discount.
+
+
+
+
+
+
