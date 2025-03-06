@@ -1,6 +1,9 @@
 # Gadgets eCommerce Targeted Sales Analysis
 *Sales Trends and Patterns discovery of an undisclosed Gadgets eCommerce with Excel and Power BI*
 
+
+
+
 ## 1. Project Background
 
 The dataset used for the following project is obtained from Kaggle and it comprises transactions carried out in 2023 from January till December of an  undisclosed eCommerce in the gadgets industry.
@@ -21,7 +24,10 @@ The dataset’s structure as seen below consists of an already clean single tabl
 
 The following attributes were  created and added  to the table:
 - Revenue – Total Sales Revenue generated per transaction
+
 Further transformations can be viewed in Power Query Editor [Here](e_commerce_sales_work.xlsx)
+The requested dashboard can be viewed
+
 
 ## 2. Executive Summary
 
