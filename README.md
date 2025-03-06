@@ -1,10 +1,29 @@
 # Gadgets eCommerce Targeted Sales Analysis
 *Sales Trends and Patterns discovery of an undisclosed Gadgets eCommerce with Excel and Power BI*
 
-[1.Executive Summmary](#1.executive-summary)
+## Table of Contents
+- [1. Project Background](#project-background)
+
+  - [1.1 Data Structure](#data-structure)
+
+- [2. Executive Summary](#executive-summary)
+
+- [3. Analysis](#analysis)
+
+  - [3.1 Time Series Orientated](#time-series-orientated)
+    
+  - [3.2 Age Range Orientated](#age-range-orientated)
+    
+  - [3.3 Discount Range Orientated](#discount-range-orientated)
+    
+  - [3.4 Product Orientated](#product-orientated)
+
+- [4. Recommendations](#recommendations)
+
+- [5. Assumptions](#assumptions)
 
 
-## 1. Project Background
+## Project Background
 
 The dataset used for the following project is obtained from Kaggle and it comprises transactions carried out in 2023 from January till December of an  undisclosed eCommerce in the gadgets industry.
 The Company’s Sales Department requests the Data Analysis Team to assist in answering to the following Business Questions/Problems:
@@ -17,7 +36,7 @@ The following types of analytics were used to discover and  carefully synthesize
 - Exploratory Data Analysis (EDA)
 - Descriptive Analytics
 
-### 1.1 Data Structure
+### Data Structure
 The dataset’s structure as seen below consists of an already clean single table of 10,000 rows which was transformed for the purposed of this study.
 
 <img src="https://github.com/user-attachments/assets/e3507f00-bd34-45f2-91f8-ffc046c132d32" alt="Alt Text" style="width:60%; height:auto;">
@@ -29,7 +48,7 @@ Further transformations can be viewed in Power Query Editor [Here](e_commerce_sa
 The requested dashboard can be viewed
 
 
-## 1.Executive Summary
+## Executive Summary
 
 The Top 2 revenue producing regions are Africa and North America with both generating approximately  $4.7 million in year 2023.
 
@@ -41,7 +60,7 @@ The African region observes discounts more than North America accompanied by the
 
 Tables and Headphones are sold more in North America in terms of quantity and Africa deals more Smartwatches and Smartphones. In both regions, however, Smartphones and Headphones carry the greatest average revenue. The purchase of Laptops and Smartphones in Africa strongly depend on the discount value, while this applies for Smartphones and Tables in North America.
 
-## 3. Analysis
+## Analysis
 
 North America and Africa have been identified as the top 2 revenue generating regions with Africa leading Globally with $4,739,841.32 and North America following with $4,727,213.53.
 
@@ -49,7 +68,7 @@ North America and Africa have been identified as the top 2 revenue generating re
 
 There is a relatively even distribution in transaction count based on membership and gender, as in both cases the ratio is approximately 1:1. Additionally, in both regions 80% of purchases fall under electronics and only 2% of transactions did not reflect a discount application (ref. [Here](e_commerce_sales_work.xlsx) for further details).
 
-### 3.1 Time Series Orientated
+### Time Series Orientated
 Africa leads in  quarters 1 and 4 in terms of transactions count, whereas  Nort America has the highest in quarter 3 with 551 counts.
 
 <img src="https://github.com/user-attachments/assets/09736d54-ce9b-48ba-9e99-b2f99c935470" style="width:50%; height:auto;">
@@ -72,7 +91,7 @@ Customers in Africa tend to purchase more on Sunday with 15.5% of its population
 
 It is observed that, though a weak one, there is a correction between the days of the week and the number of transactions in the African Region. In North America the days of the Week does not have an impact on the transaction frequency.
 
-### 3.2 Age Range Orientated
+### Age Range Orientated
 Africa shows a perfect negative correlation between Age and Transaction count, while North America showcases a very strong correlation. In other words, for both Regions, the younger customers generate overall higher revenues, particularly those in the age range18-30.
 
 <img src="https://github.com/user-attachments/assets/1250d98b-712a-4469-8670-c5736caceb8e" style="width:30%; height:auto;">
@@ -87,7 +106,7 @@ More specifically, Female above 60 and Males between 18 and 30 generate the grea
 
 <img src="https://github.com/user-attachments/assets/1f57ec09-abe0-474c-b24e-f84fa63668fa" style="width:50%; height:auto;">
 
-### 3.3 Discount Range Orientated
+### Discount Range Orientated
 There is moderate positive relationship for both regions between the discount range and the total sales revenue. As illustrated in the graph below, the higher the discount the greater the revenue, though Africa appears to be affected by this pattern slightly more than North Africa  (ref. [Here](e_commerce_sales_work.xlsx) for further details).
 
 <img src="https://github.com/user-attachments/assets/8e747617-a0ab-4fac-bbbb-8d871a2b7889" style="width:50%; height:auto;">
@@ -106,7 +125,7 @@ The discount range with the maximum count in North America is 10%-15% with 374 t
 
 Proceeding with the analysis, it is important to highlight that the sudden spike in North America in the month of July was most likely caused by 15%-20% and 20%-25% discounts applied  on the products.
 
-### 3.4 Product Orientated
+### Product Orientated
 A total of 1,274 Tablets and 1,231 Headphones are sold in North America; in  Africa Smartwatches and Smartphones are the highest selling in terms of quantity. 
 
 <img src="https://github.com/user-attachments/assets/b838e722-7fad-4970-b6e4-21822d3a6809" style="width:50%; height:auto;">
@@ -117,7 +136,7 @@ Yet, for both regions the products with the highest average revenue are Headphon
 
 Furthermore, following a correlation analysis, it is revealed that, in Africa, the possibility of laptops and smartphones being purchased (more than other products) very strongly depend on the value of the discount. Similarly in North America (tough with an inferior influence compared to Africa), customers closely observe discount values when it come to Smartphones and Tablets.
 
-## 4. Recommendations
+## Recommendations
 Based on the uncovered insights, the following recommendations have been provided.
 
 A Marketing strategy should be developed to entices  customer engagement and, consequently, customer purchase in the lowest transactions generating months: February, November and April for Africa, February, October and April for North America.
@@ -130,7 +149,7 @@ Further capitalize on Smartwatches  in both regions, Tablets in North America an
 
 Focus target and personalized adds with the aim to increase the number of Premium clients transactions.
 
-## 5. Assumptions
+## Assumptions
 The Price records are not stated to be either before or after discount: for the purposed of this analysis, it is assumed that the values are to be considered as after discount.
 
 
