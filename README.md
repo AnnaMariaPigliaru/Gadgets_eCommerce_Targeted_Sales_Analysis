@@ -1,7 +1,7 @@
 # Gadgets eCommerce Targeted Sales Analysis
 *Sales Trends and Patterns discovery of an undisclosed Gadgets eCommerce with Excel and Power BI*
 
-[Executive Summmary](#executive-summary)
+[1.Executive Summmary](#executive-summary)
 
 
 ## 1. Project Background
