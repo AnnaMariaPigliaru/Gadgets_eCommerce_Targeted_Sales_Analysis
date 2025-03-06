@@ -2,13 +2,13 @@
 *Sales Trends and Patterns discovery of an undisclosed Gadgets eCommerce with Excel and Power BI*
 
 ## Table of Contents
-- [1. Project Background](#project-background)
+[1. Project Background](#project-background)
 
   - [*1.1 Data Structure*](#data-structure)
 
-- [2. Executive Summary](#executive-summary)
+[2. Executive Summary](#executive-summary)
 
-- [3. Analysis](#analysis)
+[3. Analysis](#analysis)
 
   - [*3.1 Time Series Orientated*](#time-series-orientated)
     
@@ -18,9 +18,9 @@
     
   - [*3.4 Product Orientated*](#product-orientated)
 
-- [4. Recommendations](#recommendations)
+[4. Recommendations](#recommendations)
 
-- [5. Assumptions](#assumptions)
+[5. Assumptions](#assumptions)
 
 
 ## Project Background
