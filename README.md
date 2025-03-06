@@ -21,4 +21,4 @@ The dataset’s structure as seen below consists of an already clean single tabl
 
 The following attributes were  created and added  to the table:
 - Revenue – Total Sales Revenue generated per transaction
-Further transformations can be viewed in Power Query Editor 
+Further transformations can be viewed in Power Query Editor [Here](e_commerce_sales_work.xlsx)
