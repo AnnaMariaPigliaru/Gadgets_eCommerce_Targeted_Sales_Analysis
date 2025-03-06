@@ -45,6 +45,9 @@ The following attributes were  created and added  to the table:
 - Revenue – Total Sales Revenue generated per transaction
 
 Further transformations can be viewed in Power Query Editor [Here](e_commerce_sales_work.xlsx)
+
+### Data Analysis
+Excel 
 The requested dashboard can be viewed
 
 
