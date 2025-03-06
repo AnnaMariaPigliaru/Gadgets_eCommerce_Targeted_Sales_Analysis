@@ -6,6 +6,8 @@
 
   - [*1.1 Data Structure*](#data-structure)
 
+  - [*1.2 Data Analysis*](#data-analysis)
+
 [2. Executive Summary](#executive-summary)
 
 [3. Analysis](#analysis)
@@ -47,7 +49,8 @@ The following attributes were  created and added  to the table:
 Further transformations can be viewed in Power Query Editor [Here](e_commerce_sales_work.xlsx)
 
 ### Data Analysis
-Excel 
+Excel was the tool used for data transformation and analysis, while Power BI for the dahsboard development.
+
 The requested dashboard can be viewed
 
 
