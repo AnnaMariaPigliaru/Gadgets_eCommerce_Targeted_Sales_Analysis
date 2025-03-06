@@ -4,19 +4,19 @@
 ## Table of Contents
 - [1. Project Background](#project-background)
 
-  - [1.1 Data Structure](#data-structure)
+  - [*1.1 Data Structure*](#data-structure)
 
 - [2. Executive Summary](#executive-summary)
 
 - [3. Analysis](#analysis)
 
-  - [3.1 Time Series Orientated](#time-series-orientated)
+  - [*3.1 Time Series Orientated*](#time-series-orientated)
     
-  - [3.2 Age Range Orientated](#age-range-orientated)
+  - [*3.2 Age Range Orientated*](#age-range-orientated)
     
-  - [3.3 Discount Range Orientated](#discount-range-orientated)
+  - [*3.3 Discount Range Orientated*](#discount-range-orientated)
     
-  - [3.4 Product Orientated](#product-orientated)
+  - [*3.4 Product Orientated*](#product-orientated)
 
 - [4. Recommendations](#recommendations)
 
