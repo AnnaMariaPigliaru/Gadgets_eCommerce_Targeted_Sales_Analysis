@@ -53,8 +53,7 @@ Excel was the tool used for data transformation and analysis, while Power BI for
 
 <img src="https://github.com/user-attachments/assets/da392664-8eb8-4863-90eb-6ef84b217e75" style="width:50%; height:auto;">
 
-The requested dashboard can be viewed [Here](Gadgets_eCommerce_Dashboard.pbix)
-
+The requested dashboard can be viewed [Here](gadgets_ecommerce_dashboard.pbix)
 
 ## Executive Summary
 
