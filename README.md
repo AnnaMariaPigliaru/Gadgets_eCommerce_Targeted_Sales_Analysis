@@ -114,7 +114,7 @@ More specifically, Female above 60 and Males between 18 and 30 generate the grea
 <img src="https://github.com/user-attachments/assets/1f57ec09-abe0-474c-b24e-f84fa63668fa" style="width:50%; height:auto;">
 
 ### Discount Range Orientated
-There is moderate positive relationship for both regions between the discount range and the total sales revenue. As illustrated in the graph below, the higher the discount the greater the revenue, though Africa appears to be affected by this pattern slightly more than North Africa  (ref. [Here](e_commerce_sales_work.xlsx) for further details).
+There is moderate positive relationship for both regions between the discount range and the total sales revenue. As illustrated in the graph below, the higher the discount the greater the revenue, though Africa appears to be affected by this pattern slightly more than North America  (ref. [Here](e_commerce_sales_work.xlsx) for further details).
 
 <img src="https://github.com/user-attachments/assets/8e747617-a0ab-4fac-bbbb-8d871a2b7889" style="width:50%; height:auto;">
 
